@@ -1,0 +1,15 @@
+body {
+    background-color: #B3E5FC; /* Azul pastel */
+    font-family: Arial, sans-serif; /* Fuente opcional para mejor legibilidad */
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para los <div> */
+div {
+    background-color: white; /* Fondo blanco para resaltar el contenido */
+    margin: 20px; /* Espaciado alrededor del contenedor */
+    padding: 15px; /* Espaciado interno */
+    border-radius: 10px; /* Esquinas redondeadas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave debajo del div */
+}
